@@ -66,7 +66,12 @@
 .grid2{
     background-image: url(../recursos/r-architecture-2gDwlIim3Uw-unsplash.jpg);
     background-size: 100vw;
+
     
+}
+
+.grid2:hover{
+    filter: opacity(0.5);
 }
 
 .grid3{
